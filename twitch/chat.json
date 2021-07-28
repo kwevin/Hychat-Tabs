@@ -1,0 +1,11 @@
+{
+  "matchAny": true,
+  "tabName": "Twitch",
+  "messagePrefix": "/tc ",
+  "alwaysMatch": false,
+  "regexMatchS": [
+    "(§[a-z0-9])*(§[a-z0-9](«.»))+(.*)",
+    "(§[a-z0-9])*(§[a-z0-9](\\[§[a-z0-9]T§[a-z0-9]\\]))+(.*)"
+  ],
+  "regexIgnoreS": []
+}
