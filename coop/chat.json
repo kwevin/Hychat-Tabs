@@ -1,0 +1,11 @@
+{
+  "matchAny": true,
+  "tabName": "Co-op",
+  "messagePrefix": "/cc ",
+  "alwaysMatch": false,
+  "regexMatchS": [
+    "(§r)*(§.Co-op \u003e)+(.*)",
+    "(§r)*(§.Co-op \u003e)+(.*)"
+  ],
+  "regexIgnoreS": []
+}
