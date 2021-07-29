@@ -1,6 +1,6 @@
 # Hychat Tabs
 
-Hychat Tabs made by me, pick & choose & [add it to your chat.json](#user%20guide%20goes%20here) ezpz. <br>
+Hychat Tabs made by me, pick & choose & [add it to your chat.json](/userguide.md) ezpz. <br>
 Works best with [Tyman](https://github.com/TymanWasTaken/Hychat) or [Boulberry](https://github.com/Moulberry/Hychat) hychat. <br>
 Feel free to ask me anything, regex is quite fun <br>
 
