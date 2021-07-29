@@ -5,7 +5,7 @@ Filtered Tab filters out unecessary messages from your chatbox <br>
   <summary> Lobby </summary>
   
   - Maxed hyped message <br>
-  ![useless field](/assets/hype_message "Max hype message")
+  ![useless field](/assets/hype_message.png "Max hype message")
   - Restart list
   
 </details>
