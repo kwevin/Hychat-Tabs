@@ -18,5 +18,6 @@ Filtered Tab filters out unecessary messages from your chatbox <br>
   - Restart list <br>
   - Testing
   - Testing 2
+  - wtf
   
 </details>
