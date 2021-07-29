@@ -5,5 +5,5 @@ Works best with [Tyman](https://github.com/TymanWasTaken/Hychat) or [Boulberry](
 Feel free to ask me anything, regex is quite fun <br>
 
 <!-- revive hychat when :wahhh: -->
-"no, hychat bad no more hychat streams" - Moulberry 2020-2021 <br> ![cry\sadge](link "cry/sadge")
+"no, hychat bad no more hychat streams" - Moulberry 2020-2021 <br> ![cry](/assets/catcry.png "catcry")
 <!-- tyman its all upto you ![thumbsup](thumbsup "thumbsup") -->
