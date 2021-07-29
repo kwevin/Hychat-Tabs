@@ -20,7 +20,7 @@ Installing is quite easy, all you have to do is copy your sniplet of choice <br>
 
 ![uselessfield](/assets/installation_example.png "installation example") <br>
 
-Make sure your [json is formatted correctly](https://jsonformatter.curiousconcept.com/#) <br>
+Make sure your [json is formatted correctly](https://jsonformatter.curiousconcept.com/#) **OR ElSE** your config will **RESET**, I warned you. <br>
 
 And you are done! Enjoy your new tab.
 
