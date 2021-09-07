@@ -5,7 +5,7 @@
   "alwaysMatch": false,
   "regexMatchS": [
     "(§r)*(§.Co-op \u003e)+(.*)",
-    "(§r)*(§.Co-op \u003e)+(.*)"
+    "(§r)*(§.CC \u003e)+(.*)"
   ],
   "regexIgnoreS": []
 }

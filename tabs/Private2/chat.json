@@ -1,0 +1,9 @@
+{
+    "matchAny": true,
+    "tabName": "Private",
+    "alwaysMatch": false,
+    "regexMatchS": [
+      "(?:§r)*§d(To|From) (§.)+(\\[(VIP|MVP)(§.\\+()\\+?)?(§.)?\\])? ?(.*)"
+    ],
+    "regexIgnoreS": []
+  }
