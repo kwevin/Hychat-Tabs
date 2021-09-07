@@ -11,7 +11,7 @@ Installing is quite easy, all you have to do is copy your sniplet of choice <br>
   "alwaysMatch": false,
   "regexMatchS": [
     "(§r)*(§.Co-op \u003e)+(.*)",
-    "(§r)*(§.Co-op \u003e)+(.*)"
+    "(§r)*(§.CC \u003e)+(.*)"
   ],
   "regexIgnoreS": []
 }
