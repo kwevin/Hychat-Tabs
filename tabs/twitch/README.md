@@ -11,8 +11,8 @@
 <details>
   <summary> ThatGravyBoat </summary>
   
-  Require ThatGravyBoat's Twitch Mod to use
+  Require [ThatGravyBoat](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'s Twitch Mod to use
   ![chat image](/assets/Gravy_tab.png "twitch tab") <br>
-  Emotes from ThatGravyBoat's Hychat Mod
+  Emotes from [ThatGravyBoat](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'s Hychat Mod
   
 </details>
