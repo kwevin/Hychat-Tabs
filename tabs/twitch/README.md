@@ -11,8 +11,14 @@
 <details>
   <summary> ThatGravyBoat </summary>
   
+<<<<<<< Updated upstream
   Require ThatGravyBoat's Twitch Mod to use
   ![chat image](/assets/Gravy_tab.png "twitch tab") <br>
   Emotes from ThatGravyBoat's Hychat Mod
+=======
+  Require [ThatGravyBoat](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'s Twitch Mod to use
+  ![chat image](/assets/gravy_tab.png "twitch tab")
+  Emotes from [ThatGravyBoat](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'s Hychat Mod
+>>>>>>> Stashed changes
   
 </details>
