@@ -5,7 +5,7 @@ Filtered Tab filters out unecessary messages from your chatbox <br>
   <summary> Lobby </summary>
   
   - Maxed hyped message <br>
-  ![useless field](/assets/hype_message.png "Max hype message")
+  ![image goes here](/assets/hype_message.png "Max hype message")
   
 </details>
   
@@ -13,7 +13,8 @@ Filtered Tab filters out unecessary messages from your chatbox <br>
   <summary> Skyblock </summary>
   
   - Useless Bazaar Message <br>
-  ![useless field](#image%20link%20goes%20here "alt-text goes here")
+  - Report Messages
+  - WatchDog Messages
 
   
 </details>

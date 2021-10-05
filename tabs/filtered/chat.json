@@ -5,6 +5,8 @@
   "regexMatchS": [],
   "regexIgnoreS": [
     "§r§(?:7|c)(?:Claiming order\\.\\.\\.)?(?:Executing instant buy\\.\\.\\.)?(?:Putting (?:coins|goods) in escrow\\.\\.\\.)?(?:Checking escrow for recent transaction\\.\\.\\.)?(?:Submitting (?:buy|sell) (?:order|offer)\\.\\.\\.)?(?:The sell orders for this item changed too much!)?(?:Couldn\u0027t match the quoted price!)?(?:Seems like a volatile market!)?§r",
-    "(§r)*  §r§f§l➤ §r§6You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!§r"
+    "(§r)*  §r§f§l➤ §r§6You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!§r",
+    "(§.)+(?:\\[PLAYER INFORMATION\\])?(?:Found a rule breaker\\? Our report system can help!)?(?:Type §r§b/report \u003cname\u003e §r§fand follow the prompts to report them\\.)?(Have a question\\? Our help menu may have your answer!)?(Type §r§b/help §r§fand look through our many helpful links\\.)?§r",
+    "(?:§.)+(?:\\[WATCHDOG ANNOUNCEMENT\\])?(?:Watchdog has banned §r§c§l.+,.+§r§f players in the last 7 days\\.)?(?:Staff have banned an additional §r§c§l.+,.+§r§f in the last 7 days\\.)?(Blacklisted modifications are a bannable offense!)?§r"
   ]
 }
