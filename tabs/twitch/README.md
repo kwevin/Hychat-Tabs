@@ -12,7 +12,7 @@
   <summary> ThatGravyBoat </summary>
   
   Require ThatGravyBoat's Twitch Mod to use
-  ![chat image](/assets/Gravy_tab.png "twitch tab")
+  ![chat image](/assets/Gravy_tab.png "twitch tab") <br>
   Emotes from ThatGravyBoat's Hychat Mod
   
 </details>
